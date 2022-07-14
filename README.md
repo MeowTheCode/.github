@@ -1,6 +1,7 @@
 # MeowTheCode
-*** " Are you kitten me? " ***
+*** Are you kitten me? ***
 
+```
  　　  ∧＿∧
 　 ｒy´・ω・｀ヽっ
 　　`!　　　　　i
@@ -12,3 +13,4 @@
 o　　 ,ノ
 Ｏ＿ .ノ
 　.(ノ
+```
